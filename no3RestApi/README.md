@@ -18,7 +18,7 @@ cd no3restapi
 npm install
 ```
 
-### Selanjutnya copy file .env.example dan isi seluruh data dengan benar
+### Selanjutnya copy file .env.example dan isi seluruh pengaturan database dengan benar di file .env kalian
 
 ```
 cp .env.example .env
