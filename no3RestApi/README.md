@@ -3,7 +3,7 @@
 ### clone ke dalam local kalian
 
 ```
-git clone https://github.com/
+git clone https://github.com/Syaiful-Maulana/mockup-binar
 ```
 
 ### pindah ke file yang berhasil di clone
